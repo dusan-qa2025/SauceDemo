@@ -34,6 +34,3 @@ https://www.saucedemo.com/
 **Dusan Milosavljevic**
 
 Junior QA Engineer
-- Python
-- Selenium WebDriver
-- ChromeDriver+
