@@ -11,6 +11,10 @@ This project contains automated UI tests for the SauceDemo website using Python 
 - Remove product from cart
 - Verify backpack price
 - Verify total price
+- Cancel checkout
+- Checkout completed
+- Continue shopping
+- Logout
 
 ## Technologies Used
 - Python
